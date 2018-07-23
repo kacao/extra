@@ -1,0 +1,12 @@
+{
+  "name": "extra",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "dependencies": {
+  }
+}
