@@ -8,5 +8,8 @@
     "test": "mocha --recursive"
   },
   "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.2",
+    "sprintf-js": "^1.1.1"
   }
 }
